@@ -1,6 +1,6 @@
 // src/App.js
 import React, { useEffect, useState } from 'react';
-import CryptoCard from './components/CryptoCard';
+import CryptoCard from './pages/CryptoCard';
 import { calculateRSI, calculateBollingerBands } from './utils/indicators';
 import './styles.css';
 
