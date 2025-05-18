@@ -11,15 +11,3 @@ body {
   margin: auto;
   text-align: center;
 }
-
-.crypto-card {
-  background-color: #222;
-  border: 1px solid gold;
-  border-radius: 8px;
-  padding: 20px;
-  margin-top: 20px;
-}
-
-.crypto-card h2 {
-  margin: 0 0 10px 0;
-}
